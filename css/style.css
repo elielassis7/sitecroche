@@ -147,6 +147,8 @@
     .central{
         height: 50%;
         width: 40%;
+        left: 30%;
+        top: -100%;
         background-color: blueviolet;
         position: relative;
         
@@ -154,12 +156,16 @@
     .lateralDir{
         height: 50%;
         width: 30%;
+        left: 70%;
+        top: -150%;
         background-color: rgb(90, 187, 10);
         position: relative;
     }
     .debaixo{
         height: 50%;
         width: 70%;
+        left: 30%;
+        top: -150%;
         background-color: chocolate;
         position: relative;
     }
